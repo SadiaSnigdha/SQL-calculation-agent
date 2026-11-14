@@ -7,9 +7,6 @@ database and a local Ollama model. No hosted API is required.
 
 Run these four commands from PowerShell:
 
-```powershell
-cd "F:\books\7th sem\Agentic SE L\SQL agent"
-```
 
 ```powershell
 Start-Process ollama -ArgumentList "serve"; .\.venv\Scripts\python.exe build_database.py
