@@ -1,0 +1,4 @@
+{"timestamp": "2026-11-14T15:22:56Z", "question": "How much did customer 10 spend in January 2025?", "answer": "Unknown tool decision: {'ok': True, 'columns': ['total_spent'], 'rows': [[None]]}", "status": "error", "elapsed_ms": 57064}
+{"timestamp": "2026-11-14T15:23:28Z", "question": "How much did customer 1 spend in January 2025?", "answer": "I cannot answer this from the database because no results were returned.", "status": "ok", "elapsed_ms": 15527}
+{"timestamp": "2026-11-14T15:24:28Z", "question": "How much did customer 1 spend in January 2025?", "answer": "I cannot answer this from the database because no relevant data was found for January 2025 for customer 1.", "status": "ok", "elapsed_ms": 15968}
+{"timestamp": "2026-11-14T15:31:17Z", "question": "What is the average quantity per completed order item?", "answer": "The average quantity per completed order item is 3.0.", "status": "ok", "elapsed_ms": 19072}

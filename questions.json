@@ -1,0 +1,19 @@
+[
+  {"question": "How many customers are there?", "answerable": true, "expected": "30"},
+  {"question": "How many products are in the Electronics category?", "answerable": true, "expected": "4"},
+  {"question": "How many orders are completed?", "answerable": true, "expected": "90"},
+  {"question": "What is the total revenue for customer 12?", "answerable": true, "expected": "540.5"},
+  {"question": "What is the total revenue from completed orders?", "answerable": true, "expected": "20565.0"},
+  {"question": "Which product category earned the most completed revenue?", "answerable": true, "expected": "Books"},
+  {"question": "What is the average completed order value, and what percent above the minimum completed order value is it?", "answerable": true, "expected": "average 228.5; 231.16% above minimum"},
+  {"question": "What is the difference between completed and cancelled order counts?", "answerable": true, "expected": "60"},
+  {"question": "Which region has the most customers?", "answerable": true, "expected": "North"},
+  {"question": "What is the total quantity sold for Product 5?", "answerable": true, "expected": "90"},
+  {"question": "What is the highest product unit price?", "answerable": true, "expected": "53.0"},
+  {"question": "What percentage of orders are cancelled?", "answerable": true, "expected": "25.0%"},
+  {"question": "What is the average quantity per completed order item?", "answerable": true, "expected": "3.0"},
+  {"question": "How much did customer 1 spend in January 2025?", "answerable": true, "expected": "0.0"},
+  {"question": "What was the month-over-month revenue growth from January to February 2025?", "answerable": true, "expected": "-62.94%"},
+  {"question": "What is the average customer satisfaction score?", "answerable": false, "expected": "unsupported"},
+  {"question": "How many employees worked on each order?", "answerable": false, "expected": "unsupported"}
+]
